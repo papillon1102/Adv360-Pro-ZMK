@@ -8,7 +8,7 @@ macro_macro_w1: macro_macro_w1{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_w1";
 #binding-cells = <0>;
-bindings = <&kp LG(LS)>, <&kp W>, <&kp N>;
+bindings = <&kp LG(B)>, <&kp W>, <&kp N>;
 };
 macro_macro_avy_2: macro_macro_avy_2{
 compatible = "zmk,behavior-macro";
